@@ -33,3 +33,8 @@ Atualmente estudando R, Estatisticas e Django
   <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
 
+voce me encontra aqui:
+<div display = 'inline'>
+  <a href='https://www.linkedin.com/in/gabriel-freitas-meneses-da-silva-b78476272/'>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</div>
