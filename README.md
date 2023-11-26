@@ -24,8 +24,8 @@ Atualmente estudando R, Estatisticas e Django
 <div display = 'inline'>
   <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
-  <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original-wordmark.svg" />
+  <img wigth = '50' height = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
 
 ### R
